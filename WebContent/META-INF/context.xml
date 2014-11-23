@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" crossContext="true" debug="5"  reloadable="true">
+  <WatchedResource>WEB-INF/web.xml</WatchedResource>
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="1000" maxIdle="500" maxWait="100000" name="jdbc/sanahempinfo" password="san" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/sanahempinfo?autoReconnect=true" username="san"/>
+ 
+</Context>
+

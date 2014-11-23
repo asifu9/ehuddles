@@ -1,0 +1,107 @@
+.tableRowStyle{
+	
+
+	vertical-align: top;
+	padding-left:5px;
+	padding-top:5px;
+	width: 100px;
+	background-color: #E8F4F9;
+	}
+.notifictionBlockStyle{
+	border-bottom-color: gray;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	cursor:pointer;cursor:hand;
+	background-color: pink;
+	}
+.replyBackground{
+	background-color: #D7E3F2;
+	width:100%;
+	padding-top: 5px;
+	
+	
+	}
+	.subjectStyle{
+	border-bottom-color: white;
+	border-bottom-style: ridge;
+	border-bottom-width: 1px;
+	width:610px;
+	vertical-align: top;
+	background-color: #B8DEED;
+	font-family: verdane;
+	font-size: 20px;
+	font-weight: bold;
+	}
+	.forumSubjectNameStyle{
+	font-family: verdane;
+	font-size: 12px;
+	text-decoration:none;
+	font-weight: normal;
+	}
+	.subjectStyleReplied{
+	border-bottom-color: white;
+	border-bottom-style: ridge;
+	border-bottom-width: 1px;
+	width:100%;
+	color:gray;
+	vertical-align: top;
+	background-color: #B8DEED;
+	
+	font-family: verdane;
+	font-size: 12px;
+	font-weight: bold;
+	}
+	.replyStyle{
+	width:100%;
+	float: right;
+	background-color: #B8DEED;
+	
+	
+	}
+	.borderForThreadHeader{
+		
+	}
+	.topDiv{
+	
+	 border-left-color: #ABABAB;
+	border-left-style: ridge;
+	border-left-width: 1px;
+		border-right-color: #ABABAB;
+	border-right-style: ridge;
+	border-right-width: 1px;
+		border-bottom-color: #ABABAB;
+	border-bottom-style: ridge;
+	border-bottom-width: 1px; 
+	border-top-color: #ABABAB;
+	border-top-style: ridge;
+	border-top-width: 1px; 
+	}
+	.totalWidth{
+	width:610px;
+	}
+	.bodyStyle{
+	vertical-align: top;
+	padding-left: 5px;
+	width:500px;
+		/* border-left-color: #ABABAB;
+	border-left-style: ridge;
+	border-left-width: 1px;
+		border-right-color: #ABABAB;
+	border-right-style: ridge;
+	border-right-width: 1px;
+		border-bottom-color: #ABABAB;
+	border-bottom-style: ridge;
+	border-bottom-width: 1px; */
+	}
+.closeButtonStyle{
+	color:black;
+	cursor:pointer;cursor:hand;
+	
+	}
+.threadDate{
+	font-family: verdane;
+	font-size: 10px;
+	font-weight: normal;
+	color:gray;
+	
+	}

@@ -1,0 +1,11 @@
+
+	   <table>
+                <tr><td class="style3"><input type="image" src ="connect.jpg" width="70" height = "70"/></td>
+                    <td style="font-weight : bold; font-family : Calibri; font-size: 12pt ">Connect With Your Colleagues</td></tr>
+                <tr><td class="style3"><input type="image" src ="share photos.jpg" width="70" height = "70"/></td>
+                    <td style="font-weight : bold; font-family : Calibri; font-size: 12pt ">Share Your Captured Life</td></tr>
+                <tr><td class="style3"><input type="image" src ="share feelings.jpg" width="70" height = "70"/></td>
+                    <td style="font-weight : bold; font-family : Calibri; font-size: 12pt ">Feelings To Share</td></tr>
+                <tr><td class="style3"><input type="image" src ="messages.jpg" width="70" height = "70"/></td>
+                    <td style="font-weight : bold; font-family : Calibri; font-size: 12pt ">Conversations</td></tr>
+            </table>

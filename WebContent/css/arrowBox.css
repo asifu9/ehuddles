@@ -1,0 +1,77 @@
+
+
+.uparrowdiv, .downarrowdiv, .leftarrowdiv, .rightarrowdiv{
+width:300px;
+min-height:100px; /*min height of DIV should be set to at least 2x the width of the arrow*/
+color:black;
+
+display:none;
+position:absolute;
+word-wrap:break-word;
+-moz-border-radius:2px; /*add some nice CSS3 round corners*/
+-webkit-border-radius:2px;
+border-radius:2px;
+margin-bottom:2em;
+border-style: outset;
+border-color: #CCCCCC;
+border-width: 1px;
+z-index: 51;
+background-color: white;
+}
+
+.uparrowdiv:after{ /*arrow added to uparrowdiv DIV*/
+content:'';
+display:block;
+position:absolute;
+top:-20px; /*should be set to -border-width x 2 */
+left:30px;
+width:0;
+z-index:54;
+height:0;
+border-color: transparent transparent white transparent; /*border color should be same as div div background color*/
+border-style: solid;
+border-width: 10px;
+
+
+}
+.uparrowdiv{
+ 	-moz-box-shadow: 0 0 1px 0px #888;
+-webkit-box-shadow: 0 0 1px 0px#888;
+box-shadow: 0 0 1px 0px #888; 
+	border-left-color: #C1C1C1;
+	border-left-style: solid;
+	border-left-width: 1px;
+	}
+.rightarrowdiv:after{ /*arrow added to rightarrowdiv DIV*/
+content:'';
+display:block;
+position:absolute;
+top:10px;
+left:100%; /*should be set to 100% */
+width:0;
+height:0;
+border-color: transparent transparent transparent #FFFFFF ; /*border color should be same as div div background color*/
+border-style: solid;
+border-width: 10px;
+}
+.leftarrowdiv:after{ /*arrow added to leftarrowdiv DIV*/
+content:'';
+display:block;
+position:absolute;
+top:10px;
+
+left:-20px; /*should be set to -border-width x 2 */
+width:0;
+height:0;
+border-color: transparent #5E93C4 transparent transparent; /*border color should be same as div div background color*/
+border-style: solid;
+border-width: 10px;
+}
+
+.myPopupStyleInNotification{
+	border-bottom-color: #E9E9E9;
+	border-bottom-style: inset;
+	border-bottom-width: 1px;
+	width: 100%;
+	
+	}

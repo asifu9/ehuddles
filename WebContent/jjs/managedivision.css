@@ -1,0 +1,29 @@
+.columnHeaderStyle{
+	width:200px;
+	
+}
+.columnHeaderStyleColumns{
+	width:200px;
+	background-color: #EEEEBB;
+	
+}
+.mytoggle{
+	background-color: #3D9AB9;
+	z-index: 202;
+}
+.columnHeaderStyleColumns1{
+	width:150px;
+	background-color: #CBE4ED;
+	overflow: hidden;
+	
+}
+.columnHeaderStyleColumns2{
+	width:200px;
+	background-color: #CBE4ED;
+	overflow: hidden;
+}
+.columnHeaderStyleColumns3{
+	width:38px;
+	background-color: #CBE4ED;
+	overflow: hidden;
+}

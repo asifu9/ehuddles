@@ -1,0 +1,52 @@
+.tableStyle {
+
+	border-color: #6F5B7B;
+	border-style: solid;
+	border-width: 1px;
+}
+
+.heading {
+	font-family:Tahoma;
+	font-weight:bold;
+	font-size:16px;
+	background-color: #6F5B7B;
+	color:white;"
+	}
+	
+.commentsDes {
+	
+	background-color: #F5FCFB;
+	font-family:Tahoma;
+	font-weight:normal;
+	font-size:12px;
+	}
+	
+.dateTime {
+	padding-top:5px;
+	font-family: Tahoma;
+	font-weight: normal;
+	font-size: 10px;
+	color:gray;
+	
+	}
+ .Button {
+ 		 background-color:#6F5B7B;
+        border-color: #B5A6BD rgb(111, 91, 123) rgb(111, 91, 123) rgb(181, 166, 189);
+        border-style: solid;
+        font-weight:bold;
+        border-width: 1px;
+        color: #fff;
+        font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+        font-size: 11px;
+        margin: 0 2px;
+        padding: 2px 18px;
+ }
+ 
+    .textBox {
+   
+   		font-size:15px;
+         font-family:Tahoma;
+         font-weight: normal;
+         border-color: #52435A;
+         border-width: 1px;
+   }
